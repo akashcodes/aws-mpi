@@ -1,5 +1,5 @@
 {
-    "name": "aws-cluster-management",
+    "name": "aws-mpi",
     "version": "0.1.0",
     "main": "main.js",
     "scripts": {
